@@ -1,4 +1,3 @@
-
 import sha1 from 'sha1';
 import { Request } from 'express';
 import mongoDBCore from 'mongodb/lib/core';
